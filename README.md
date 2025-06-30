@@ -1,4 +1,4 @@
-# 🇨🇦 hstcalculator.onl – Free Canadian HST Calculator
+# hstcalculator.onl – Free Canadian HST Calculator
 
 **Developed by Tara Rebecca**
 
