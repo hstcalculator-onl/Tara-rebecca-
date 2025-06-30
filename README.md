@@ -4,11 +4,11 @@
 
 A fast, accurate, and free online tool to calculate HST across Canadian provinces. Built to simplify taxes for freelancers, small businesses, and consultants.
 
-🔗 **Live tool:** [https://hstcalculator.onl](https://hstcalculator.onl)
+ **Live tool:** [https://hstcalculator.onl](https://hstcalculator.onl)
 
 ---
 
-## 🧠 What is hstcalculator.onl?
+##  What is hstcalculator.onl?
 
 **hstcalculator.onl** is a user-friendly web application that helps Canadians quickly:
 - **Add or remove HST** from any amount
@@ -18,7 +18,7 @@ A fast, accurate, and free online tool to calculate HST across Canadian province
 
 ---
 
-## 🎯 Who should use this tool?
+##  Who should use this tool?
 
 - ✅ Freelancers & self-employed professionals
 - ✅ Small business owners & entrepreneurs
@@ -28,19 +28,19 @@ A fast, accurate, and free online tool to calculate HST across Canadian province
 
 ---
 
-## 🔧 Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
-| ✅ Province-specific HST rates | Ontario (13%), PEI (15%), etc. |
-| 🔁 Add or subtract HST | Choose your direction |
-| 📱 Mobile optimized | Fast on any device |
-| 🔐 No signups or tracking | Privacy-first |
-| 📅 Updated for 2025 | Latest HST rules in place |
+|  Province-specific HST rates | Ontario (13%), PEI (15%), etc. |
+|  Add or subtract HST | Choose your direction |
+|  Mobile optimized | Fast on any device |
+|  No signups or tracking | Privacy-first |
+|  Updated for 2025 | Latest HST rules in place |
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - HTML5  
 - CSS3  
@@ -49,7 +49,7 @@ A fast, accurate, and free online tool to calculate HST across Canadian province
 
 ---
 
-## 🛠 How to Use
+##  How to Use
 
 1. Visit [hstcalculator.onl](https://hstcalculator.onl)  
 2. Select province or enter HST rate  
@@ -58,20 +58,20 @@ A fast, accurate, and free online tool to calculate HST across Canadian province
 
 ---
 
-## 📬 Feedback & Contributions
+##  Feedback & Contributions
 
 Have suggestions, feedback, or bug reports?  
 Please open an issue here on GitHub or reach out via the contact form at [hstcalculator.onl](https://hstcalculator.onl).
 
 ---
 
-## 👩‍💻 About the Developer
+##  About the Developer
 
 **Tara Rebecca** is a web developer passionate about building simple, useful tools for real-world needs. She created hstcalculator.onl to help Canadians save time and calculate taxes without confusion.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** – feel free to use, fork, or contribute.
 
